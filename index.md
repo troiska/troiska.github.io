@@ -1,6 +1,8 @@
 # Hi there
 
 ![image](https://github.com/troiska/troiska.github.io/blob/master/portrait.png)
+-
+![image](/blob/master/portrait.png)
 
 My name is Tina. I'm an artist, designer, technologist and educator, with a special interest in social justice and technology, privacy and surveillance, intersectionality, inclusion and playfulness as a learning tool. I am based in Montreal, though sometimes you can find me in Toronto or Beirut.
 
